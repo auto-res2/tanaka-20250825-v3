@@ -3,5 +3,25 @@
   "queries": [
     "memory efficient diffusion model",
     "diffusion architecture optimization"
+  ],
+  "research_study_list": [
+    {
+      "title": "Improving Training Efficiency of Diffusion Models via Multi-Stage Framework and Tailored Multi-Decoder Architecture"
+    },
+    {
+      "title": "Temporal Dynamic Quantization for Diffusion Models"
+    },
+    {
+      "title": "Fast and Memory-Efficient Video Diffusion Using Streamlined Inference"
+    },
+    {
+      "title": "Analyzing and Improving the Training Dynamics of Diffusion Models"
+    },
+    {
+      "title": "Analyzing and Improving the Training Dynamics of Diffusion Models"
+    },
+    {
+      "title": "DiP-GO: A Diffusion Pruner via Few-step Gradient Optimization"
+    }
   ]
 }
